@@ -232,13 +232,13 @@ def start(update: Update, context: CallbackContext):
                             ),
                             InlineKeyboardButton(
                                 text="🔔 Updates",
-                                url="https://t.me/TProtectorSupport",
+                                url="https://t.me/TProtectorUpdates",
                             ),
                         ],
                         [
                             InlineKeyboardButton(
                                 text="🧾 Getting Started",
-                                url="https://t.me/https://t.me/TProtectorhelp",
+                                url="https://t.me/TProtectorhelp",
                             ),
                         ],
                     ],
