@@ -217,7 +217,7 @@ def start(update: Update, context: CallbackContext):
                     [
                         [
                             InlineKeyboardButton(
-                                text="➕ Add me & don't forget to promote me",
+                                text="➕ Add me & Promote me as admin",
                                 url="t.me/{}?startgroup=true".format(
                                     context.bot.username,
                                 ),
@@ -225,7 +225,7 @@ def start(update: Update, context: CallbackContext):
                         ],
                         [
                             InlineKeyboardButton(
-                                text="🚑 Support",
+                                text="📨 Support",
                                 url=f"https://t.me/TProtectorSupport",
                             ),
                             InlineKeyboardButton(
